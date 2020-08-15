@@ -1,0 +1,4 @@
+doc/zip
+doc/**/*.md
+doc/**/image
+!doc/**/template.*
