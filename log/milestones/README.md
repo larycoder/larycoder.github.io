@@ -9,7 +9,9 @@ Milestones is constructed into big and small milestone.
 
 Each milestone will have a big milestone which be splitted into many smaller effort called small smilestone. In milestones dir, each file exclude tracking.md is a big milestone and their contents will be set of small milestone. **tracking.md** is a special file record all big milestone and their status.
 
-# Struct
+# Structure
 | PATH | Description |
 |:-----|:------------|
 | tracking.md | the file records all big milestones |
+
+(2020-12-19)
