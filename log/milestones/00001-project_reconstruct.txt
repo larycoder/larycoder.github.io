@@ -1,0 +1,16 @@
+[Milestone]
+Re-construct project and update old page for working in new structure
+
+[Target]
+Have a better struct for developing main project. And re-write old process for working in new constructed project
+
+[Small Milestone]
+----------------------------------------------------------------------------------
+1. Description:
+- Re-write html to let old page running on new constructed
+
+2. Time:
+- Start : 2020-12-19
+- ETS   : in-day
+- End   : NULL
+----------------------------------------------------------------------------------
