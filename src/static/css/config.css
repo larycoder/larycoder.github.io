@@ -1,0 +1,38 @@
+#Contact,#About{
+  float:left;
+}
+#About{
+  width:50%;
+  border-left:3px solid gainsboro;
+  border-right:3px solid gainsboro;
+  padding-left:4%;
+  padding-right:4%;
+}
+#Contact{
+  width:20%;
+}
+#Contact>*{
+  margin-left:15%;
+}
+#Contact>img{
+  width:60%;
+  margin-left:15%;
+}
+footer{
+  clear:both;
+  height:2em;
+}
+.hacked_style{
+  color: #009900;
+}
+#blink_me{
+  animation: blinker 1.2s linear infinite;
+}
+
+@keyframes blinker{
+  0%{color: #009900;}
+  49%{color: #009900;}
+  60%{color: transparent;}
+  99%{color:transparent;}
+  100%{color: #009900;}
+}
