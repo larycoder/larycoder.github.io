@@ -6,7 +6,7 @@ subtitle:
 - Replace this with document content
 author:
 - Le Nhu Chu Hiep
-date: \today
+date: \\today
 geometry:
 - margin=2cm
 ---
