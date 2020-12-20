@@ -13,4 +13,4 @@ This file used to keep track all big milestones status
 
 | Big Smilestone | Note | Status |
 |:---------------|:-----|:-------|
-| 00001-project_reconstruct | reconstruct project | TODO | 
+| 00001-project_reconstruct | reconstruct project | DONE | 

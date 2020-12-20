@@ -12,5 +12,6 @@ Have a better struct for developing main project. And re-write old process for w
 2. Time:
 - Start : 2020-12-19
 - ETS   : in-day
-- End   : NULL
+- End   : 2020-12-20
+- NOTE  : too lazy for finished it -> but it done now
 ----------------------------------------------------------------------------------
